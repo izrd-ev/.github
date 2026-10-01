@@ -1,34 +1,38 @@
 # IZRD e.V.
 
-**Interdisziplinäres Zentrum für Radikalisierungsprävention und Demokratieförderung**
+**Interdisciplinary Centre for the Prevention of Radicalisation and Promotion of Democracy**
 
-Der IZRD e.V. ist ein gemeinnütziger Verein mit Sitz in Berlin-Kreuzberg (gegründet Juli 2022). Wir arbeiten zur Prävention von religiös begründetem Extremismus, transnationalen Extremismusformen, Verschwörungserzählungen und anderen Formen gruppenbezogener Menschenfeindlichkeit.
+IZRD is a non-profit association founded in July 2022 by committed professionals from civil-society radicalisation prevention, civic education, security agencies, academia and the private sector. Our work focuses on preventing religiously motivated extremism, transnational forms of extremism, conspiracy narratives and other forms of group-focused enmity.
 
-> Nur gemeinsam können wir extremistischen Erscheinungsformen in unserer Gesellschaft präventiv und intervenierend begegnen.
+Since 2023 we have been running innovative projects that include counselling, training and professional development. For our members we also offer networking opportunities and expert discussions.
 
-## Unsere Arbeitsbereiche
+> Only together can we counter extremist manifestations in our society, both preventively and interventionally.
 
-- **Beratung** – Fachliche Beratung für Praxis und Institutionen
-- **Fortbildung** – Schulungen und Weiterbildungen
-- **Bildungsveranstaltungen** – Vorträge, Workshops, Fachtage
-- **Kinderschutz** – Konzepte und Angebote zum Schutz von Kindern
+## What we do
 
-## Zielgruppen
+- **Counselling** – Professional advice for practitioners and institutions
+- **Training** – Further education and certificate courses
+- **Events** – Conferences, workshops and professional exchanges
+- **Child protection** – Concepts and training on child protection and extremism
 
-Fachkräfte der Präventionsarbeit, Pädagog:innen, Sicherheitsbehörden, Wissenschaft und Zivilgesellschaft.
+## Projects
 
-## Open Source & IT
+- **Veritas Berlin** – Counselling centre
+- **WelEx** – Qualification course for worldview and extremism officers
+- **SIT** – Training series "Stark in Therapie und Weltanschauungsfragen"
+- **dist[ex]** – Developing a nationwide infrastructure for disengagement and exit work
+- **AFETS** – School trainings on anti-feminism and toxic masculinity
+- **NetzHelden 60+** – Digital certificate course
+- **Child Protection & Extremism** – Training course
+- **Methodenlehrbuch Beratung** – Methods textbook for counselling
 
-Hier veröffentlichen wir Werkzeuge, Skripte und Dokumentation, die im Vereinsalltag entstehen und auch für andere gemeinnützige Organisationen nützlich sein können.
+## Who we work with
 
-| Repository | Beschreibung |
-|------------|--------------|
-| _folgt_    | _folgt_      |
+Practitioners, educators, security professionals, researchers and civil-society actors engaged in prevention work.
 
-Beiträge sind willkommen: Issues und Pull Requests bitte mit kurzer Beschreibung des Problems bzw. der Änderung. **Keine personenbezogenen Daten, Zugangsdaten oder interne Vereinsunterlagen committen.**
-
-## Kontakt
+## Contact
 
 - Web: [www.izrd.de](https://www.izrd.de)
-- IT: [it@izrd.de](mailto:it@izrd.de)
+- Email: [it@izrd.de](mailto:it@izrd.de)
 - LinkedIn: [IZRD e.V.](https://www.linkedin.com/company/izrd)
+- Location: Berlin (Kreuzberg), Germany
